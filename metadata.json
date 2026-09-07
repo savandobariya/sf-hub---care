@@ -1,0 +1,8 @@
+{
+  "name": "SF Hub & Care",
+  "description": "SF Hub & Care - Flagship Mobile Store & Hardware Service Station with Photorealistic 3D Smartphone Studio, IMEI tracking, POS Billing, Repair Job Cards, Customer Khata, and PHP/MongoDB API backend integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
